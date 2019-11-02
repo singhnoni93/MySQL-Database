@@ -32,3 +32,7 @@ Use SQL to specify the following queries.   When you populate the database, inse
 5)	Retrieve number of type of drugs made by “Pfizer”. (Type is distinguished by “trade_name”).
 6)	Obtain information (pharmacy name, address) of pharmacy that sells “Tylenol” with the lowest price among all pharmacies. (“Tylenol” is trade name)
 7)	Retrieve the pharmacies that sell more than 2 types of drugs. List pharmacy name and number of types of drugs sold. (Type is distinguished by “trade_name”. However, if two drugs with the same trade name are produced by two different pharmaceutical companies, they are considered as two different types of drugs.)
+
+
+
+Readme change
